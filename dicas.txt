@@ -5,3 +5,7 @@ NUNCA use o commit de forma desleixada.
 
 git pull puxa os dados da nuvem.
 
+Vamos fingir que essa é uma dica importantíssima.
+
+ET bilu era um sábio.
+
