@@ -1,1 +1,3 @@
 Sempre coloque boas mensagens nos seus commits.
+
+Sempre use o commit de forma desleixada.
