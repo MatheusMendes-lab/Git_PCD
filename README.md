@@ -1,4 +1,4 @@
-# Git_PCD
+# Git\_PCD
 
 Docente: Daniel R. Cassar.
 
@@ -9,3 +9,8 @@ Instituição: Ilum Escola de Ciência, CNPEM.
 Aula de GIT do dia 14/05 da matéria de Prática de Ciência de Dados.
 
 Neste momento, o repositório está em construção e estamos ainda atualizando o README.
+
+
+
+Vamos aprender a fazer um commit local
+
