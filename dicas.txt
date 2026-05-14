@@ -1,1 +1,3 @@
 Sempre coloque boas mensagens nos seus commits.
+
+git pull puxa os dados da nuvem.
