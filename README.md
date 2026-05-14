@@ -12,5 +12,9 @@ Neste momento, o repositório está em construção e estamos ainda atualizando 
 
 
 
-Vamos aprender a fazer um commit local
+Vamos aprender a fazer um commit local.
+
+
+
+Agora, vou editar dois arquivos localmente e dar um commit.
 
