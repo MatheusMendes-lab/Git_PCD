@@ -1,3 +1,7 @@
 Sempre coloque boas mensagens nos seus commits.
 
+<<<<<<< HEAD
 Sempre use o commit de forma desleixada.
+=======
+git pull puxa os dados da nuvem.
+>>>>>>> 32157c66825d0d306c4c785eb1437bded05f04f0
